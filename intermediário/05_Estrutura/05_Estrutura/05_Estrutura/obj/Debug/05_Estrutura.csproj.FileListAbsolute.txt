@@ -1,0 +1,8 @@
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\05_Estrutura\05_Estrutura\05_Estrutura\obj\Debug\05_Estrutura.csproj.AssemblyReference.cache
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\05_Estrutura\05_Estrutura\05_Estrutura\obj\Debug\05_Estrutura.csproj.SuggestedBindingRedirects.cache
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\05_Estrutura\05_Estrutura\05_Estrutura\obj\Debug\05_Estrutura.csproj.CoreCompileInputs.cache
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\05_Estrutura\05_Estrutura\05_Estrutura\bin\Debug\05_Estrutura.exe.config
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\05_Estrutura\05_Estrutura\05_Estrutura\bin\Debug\05_Estrutura.exe
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\05_Estrutura\05_Estrutura\05_Estrutura\bin\Debug\05_Estrutura.pdb
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\05_Estrutura\05_Estrutura\05_Estrutura\obj\Debug\05_Estrutura.exe
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\05_Estrutura\05_Estrutura\05_Estrutura\obj\Debug\05_Estrutura.pdb

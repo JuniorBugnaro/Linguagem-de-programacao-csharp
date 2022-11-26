@@ -1,0 +1,8 @@
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\aula001\01_classe\bin\Debug\01_classe.exe.config
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\aula001\01_classe\bin\Debug\01_classe.exe
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\aula001\01_classe\bin\Debug\01_classe.pdb
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\aula001\01_classe\obj\Debug\01_classe.csproj.AssemblyReference.cache
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\aula001\01_classe\obj\Debug\01_classe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\aula001\01_classe\obj\Debug\01_classe.csproj.CoreCompileInputs.cache
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\aula001\01_classe\obj\Debug\01_classe.exe
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\aula001\01_classe\obj\Debug\01_classe.pdb

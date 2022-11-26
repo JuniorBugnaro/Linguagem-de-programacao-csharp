@@ -1,0 +1,8 @@
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\03_Construtores\03_Construtores\bin\Debug\03_Construtores.exe.config
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\03_Construtores\03_Construtores\bin\Debug\03_Construtores.exe
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\03_Construtores\03_Construtores\bin\Debug\03_Construtores.pdb
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\03_Construtores\03_Construtores\obj\Debug\03_Construtores.csproj.AssemblyReference.cache
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\03_Construtores\03_Construtores\obj\Debug\03_Construtores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\03_Construtores\03_Construtores\obj\Debug\03_Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\03_Construtores\03_Construtores\obj\Debug\03_Construtores.exe
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\03_Construtores\03_Construtores\obj\Debug\03_Construtores.pdb

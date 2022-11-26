@@ -1,0 +1,8 @@
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\aula002\02_Metodos\02_Metodos\bin\Debug\02_Metodos.exe.config
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\aula002\02_Metodos\02_Metodos\bin\Debug\02_Metodos.exe
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\aula002\02_Metodos\02_Metodos\bin\Debug\02_Metodos.pdb
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\aula002\02_Metodos\02_Metodos\obj\Debug\02_Metodos.csproj.AssemblyReference.cache
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\aula002\02_Metodos\02_Metodos\obj\Debug\02_Metodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\aula002\02_Metodos\02_Metodos\obj\Debug\02_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\aula002\02_Metodos\02_Metodos\obj\Debug\02_Metodos.exe
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\aula002\02_Metodos\02_Metodos\obj\Debug\02_Metodos.pdb

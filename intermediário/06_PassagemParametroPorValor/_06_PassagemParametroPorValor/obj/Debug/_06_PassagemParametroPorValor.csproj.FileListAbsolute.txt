@@ -1,0 +1,8 @@
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\06_PassagemParametroPorValor\_06_PassagemParametroPorValor\bin\Debug\_06_PassagemParametroPorValor.exe.config
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\06_PassagemParametroPorValor\_06_PassagemParametroPorValor\bin\Debug\_06_PassagemParametroPorValor.exe
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\06_PassagemParametroPorValor\_06_PassagemParametroPorValor\bin\Debug\_06_PassagemParametroPorValor.pdb
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\06_PassagemParametroPorValor\_06_PassagemParametroPorValor\obj\Debug\_06_PassagemParametroPorValor.csproj.AssemblyReference.cache
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\06_PassagemParametroPorValor\_06_PassagemParametroPorValor\obj\Debug\_06_PassagemParametroPorValor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\06_PassagemParametroPorValor\_06_PassagemParametroPorValor\obj\Debug\_06_PassagemParametroPorValor.csproj.CoreCompileInputs.cache
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\06_PassagemParametroPorValor\_06_PassagemParametroPorValor\obj\Debug\_06_PassagemParametroPorValor.exe
+C:\Users\Junior Bugnaro\Documents\estudos\c#\intermediário\06_PassagemParametroPorValor\_06_PassagemParametroPorValor\obj\Debug\_06_PassagemParametroPorValor.pdb

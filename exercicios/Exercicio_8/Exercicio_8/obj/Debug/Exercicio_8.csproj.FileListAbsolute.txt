@@ -1,0 +1,8 @@
+C:\Users\Junior Bugnaro\Documents\estudos\c#\Linguagem-de-programacao-csharp\exercicios\Exercicio_8\Exercicio_8\bin\Debug\Exercicio_8.exe.config
+C:\Users\Junior Bugnaro\Documents\estudos\c#\Linguagem-de-programacao-csharp\exercicios\Exercicio_8\Exercicio_8\bin\Debug\Exercicio_8.exe
+C:\Users\Junior Bugnaro\Documents\estudos\c#\Linguagem-de-programacao-csharp\exercicios\Exercicio_8\Exercicio_8\bin\Debug\Exercicio_8.pdb
+C:\Users\Junior Bugnaro\Documents\estudos\c#\Linguagem-de-programacao-csharp\exercicios\Exercicio_8\Exercicio_8\obj\Debug\Exercicio_8.csproj.AssemblyReference.cache
+C:\Users\Junior Bugnaro\Documents\estudos\c#\Linguagem-de-programacao-csharp\exercicios\Exercicio_8\Exercicio_8\obj\Debug\Exercicio_8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Junior Bugnaro\Documents\estudos\c#\Linguagem-de-programacao-csharp\exercicios\Exercicio_8\Exercicio_8\obj\Debug\Exercicio_8.csproj.CoreCompileInputs.cache
+C:\Users\Junior Bugnaro\Documents\estudos\c#\Linguagem-de-programacao-csharp\exercicios\Exercicio_8\Exercicio_8\obj\Debug\Exercicio_8.exe
+C:\Users\Junior Bugnaro\Documents\estudos\c#\Linguagem-de-programacao-csharp\exercicios\Exercicio_8\Exercicio_8\obj\Debug\Exercicio_8.pdb

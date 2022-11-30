@@ -37,7 +37,11 @@ namespace Exercicio_11
                     salario += salario;
                 }
             }
-           
+            if (ano % 10 == 0)
+            {
+                salario += (salario * 0.10);
+            }
+
 
             Console.WriteLine("O salario do funcionario, que trabalha há " + ano + " anos é de R$" + salario.ToString("C"));
 

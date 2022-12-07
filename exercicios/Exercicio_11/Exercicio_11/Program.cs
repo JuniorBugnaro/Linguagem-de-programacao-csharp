@@ -25,26 +25,23 @@ namespace Exercicio_11
             Console.Write("Qual o salario inicial do funcionário: ");
             double.TryParse(Console.ReadLine(), out salario);
 
-           for (int i = 1; i <= 3; i++)
+            for (int i = 1; i <= ano; i++)
             {
-                salario = salario + (salario * 0.50);
-            }
-
-           if (ano >= 4)
-            {
-                for(int i = 3; i <= ano; i++)
+                Console.WriteLine($"Ano {i} salario {salario}");
+                if (i < 3)
                 {
-                    salario += salario;
+                    salario = salario + (salario * 0.50);
+
+                    continue;
                 }
+
+                salario *= 2;
+
+                if (i % 10 == 0)
+                    salario = salario + (salario * 0.10);
             }
-            if (ano % 10 == 0)
-            {
-                salario += (salario * 0.10);
-            }
 
-
-            Console.WriteLine("O salario do funcionario, que trabalha há " + ano + " anos é de R$" + salario.ToString("C"));
-
+            Console.WriteLine("O salario do funcionario, que trabalha há " + ano + " anos é de " + salario.ToString("C"));
             Console.ReadKey();
         }
     }
